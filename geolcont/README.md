@@ -1,3 +1,4 @@
+#geolcont
 A simple map of the continents, divided as
 ```
   1: Africa

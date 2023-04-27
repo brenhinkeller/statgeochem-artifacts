@@ -1,3 +1,4 @@
+#geolprov
 A modified version of the USGS map of tectonic provinces of the world
 c.f. https://commons.wikimedia.org/wiki/File:World_geologic_provinces.jpg
 
